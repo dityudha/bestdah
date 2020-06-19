@@ -2,8 +2,7 @@
 
 Bestdah adalah website yang berisi tentang company profile jasa pembersihan tempat ibadah.
 
-![bestdah 1](https://user-images.githubusercontent.com/33762836/85168115-11b1f280-b294-11ea-8cf9-d9e009402cfa.jpg)
-
+![bestdah 1](https://user-images.githubusercontent.com/33762836/85168390-82590f00-b294-11ea-97fe-97174f2c267c.jpg)
 
 Template by Colorlib
 
